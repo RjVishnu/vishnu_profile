@@ -12,19 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rzvishnu/RZ_Profile"
+    "url": "git+https://github.com/rzvishnu/vishnu_profile"
   },
   "author": "rzvishnu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rzvishnu/RZ_Profile/issues"
+    "url": "https://github.com/rzvishnu/vishnu_profile/issues"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "homepage": "https://github.com/rzvishnu/RZ_Profile#readme",
+  "homepage": "https://github.com/rzvishnu/vishnu_profile#readme",
    "dependencies": {
     "express": "^4.15.2"
   }
