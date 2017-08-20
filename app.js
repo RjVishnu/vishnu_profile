@@ -3,6 +3,6 @@ var app = express()
 var port = process.env.PORT || 5678;
 app.use(express.static('public'));
 app.get('/', function (req, res) {
-  res.sendfile(__dirname+'/public/main.html');
+  res.sendfile(__dirname+'/public/index.html');
 })
 app.listen(port)
