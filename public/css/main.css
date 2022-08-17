@@ -1,9 +1,4 @@
 /**
- * =================================================================== 
- *
- *  Kards v1.0 Main Stylesheet
- *  url: styleshout.com
- *  03-01-2016
  *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
@@ -2173,6 +2168,14 @@ header .logo a {
 }
 .owl-theme .owl-controls .owl-page.active span {
 	background: #FF0077;
+}
+
+
+
+#testimonials {
+	padding-top: 12rem;
+	color: white;
+	position: relative;
 }
 
 
